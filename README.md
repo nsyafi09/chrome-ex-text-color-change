@@ -6,4 +6,4 @@
 
 # Screenshot
 
-![main](https://github.com/nsyafi09/Quiz-App-with-React-2021/blob/main/Screenshots/Mainpage.png)
+![main](https://github.com/nsyafi09/Quiz-App-with-React-2021/blob/main/Screenshots/Mainpage.png](https://github.com/nsyafi09/chrome-ex-text-color-change/blob/main/screenshots/ss1.png)
