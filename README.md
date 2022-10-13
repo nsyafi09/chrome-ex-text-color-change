@@ -4,3 +4,6 @@
 
 ## Required to Unpack from extension with Developer Tools enabled
 
+# Screenshot
+
+![main](https://github.com/nsyafi09/Quiz-App-with-React-2021/blob/main/Screenshots/Mainpage.png)
