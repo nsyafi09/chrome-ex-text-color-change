@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "version": "1.5",
+    "name": "HTML Style Changer",
+    "content_scripts": [{
+        "js": ["content.js"],
+        "matches": ["<all_urls>"],
+        "run_at": "document_end"
+      }],
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}

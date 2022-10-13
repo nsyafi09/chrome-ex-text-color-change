@@ -1,0 +1,50 @@
+:root {
+    --dark-blue: #1f2937;
+    --dark-blue-hover: #475160;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 5px;
+}
+
+a {
+    color: var(--dark-blue);
+}
+
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+    max-width: 400px;
+}
+
+button {
+    color: white;
+    background-color: var(--dark-blue);
+    border: 1px solid var(--dark-blue);
+    padding: 10px 20px;
+    font-weight: 700;
+}
+
+button:hover {
+    background-color: var(--dark-blue-hover);
+}
+
+#delete-btn {
+    color: var(--dark-blue);
+    background-color: white;
+    border: 1px solid var(--dark-blue);
+    padding: 10px 20px;
+    font-weight: 700;
+}
